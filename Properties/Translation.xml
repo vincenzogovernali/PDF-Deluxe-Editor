@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<text>
+  <italian>
+    <warning>Attenzione!</warning>
+    <complete>Operazione Completata!</complete>
+    <no_file>Nessun File Selezionato</no_file>
+  </italian>
+  <english>
+    <warning>Warning!</warning>
+    <complete>Operation Completed!</complete>
+    <no_file>No File Selected</no_file>
+
+  </english>
+  <deutch>
+    
+  </deutch>
+</text>
